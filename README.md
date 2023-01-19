@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/ahnaf-shamim-7aa405212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## :men_beard: 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+## 🧔 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 ***
 <ul style="font-family: monospace;">
     <li>𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</li>
