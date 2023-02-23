@@ -1,7 +1,6 @@
 ![finalGithub](https://user-images.githubusercontent.com/42123948/176552170-3758cdd6-f378-498a-afb7-0792b1ab80cf.gif)
 <p align="center">
     <a href = "mailto: aahnafss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/aahnaf_s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ahnaf-shamim-7aa405212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
